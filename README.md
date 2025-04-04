@@ -1,14 +1,11 @@
-# 👋 Olá, eu sou Marcos!
-
-Estudante de Desenvolvimento de Software apaixonado por tecnologia. Atualmente focando em aprender e construir projetos para expandir meu conhecimento.
-
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/marcoscalera">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscalera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscalera&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcoscalera&theme=dracula" alt="Activity Graph"/>
 </div>
 
 ## 🛠️ Tecnologias
@@ -30,7 +27,6 @@ Estudante de Desenvolvimento de Software apaixonado por tecnologia. Atualmente f
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Atualmente Estudando
 - Desenvolvimento Backend com C#
