@@ -24,6 +24,6 @@ Estudante de Desenvolvimento de Software apaixonado por tecnologia. Atualmente f
 
 
 ## 📫 Redes Sociais
-- LinkedIn: (https://www.linkedin.com/in/calera)]
+- LinkedIn: (https://www.linkedin.com/in/calera)
 
 ⭐ Estudando e codando todos os dias!
