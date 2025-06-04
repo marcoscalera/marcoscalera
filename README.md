@@ -15,6 +15,6 @@ Atualmente, venho aprimorando meus conhecimentos por meio de projetos práticos,
 ## 📚 Atualmente Estudando
 
 - Desenvolvimento Backend com **C#**, **Java**, **Python**
-- Desenvolvimento Frontend com **React**,**JavaScript**, **HTML**, **CSS**, **Bootstrap**
+- Desenvolvimento Frontend com **React**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**
 
 ---
