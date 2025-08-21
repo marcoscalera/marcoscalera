@@ -1,10 +1,4 @@
-## 👋 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e boas práticas de programação. Gosto de trabalhar tanto no backend quanto no frontend, explorando diferentes linguagens e ferramentas para construir aplicações funcionais e bem estruturadas.
-
-Atualmente, venho aprimorando meus conhecimentos por meio de projetos práticos, como o sistema **[Coontrera](https://github.com/marcoscalera/Coontrera)**, onde aplico conceitos modernos de desenvolvimento em um cenário real.
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscalera&layout=compact&theme=dark)](https://github.com/marcoscalera/github-readme-stats)
 
 ## 🛠️ Tecnologias
 
