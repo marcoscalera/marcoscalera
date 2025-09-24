@@ -9,24 +9,10 @@
 
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
-
 - 👨‍💻 Fullstack Developer (Angular, C#, SQL Server, n8n, Syncfusion)  
 - 📖 Focused on continuous learning  
 - 🛠️ I’ve used and tested a wide range of technologies listed in my profile  
 - 👥 Open to collaboration and new opportunities  
-
----
-
-<div align="start">
-  
-<a href="https://www.linkedin.com/in/calera/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-
-![](https://komarev.com/ghpvc/?username=marcoscalera&style=flat&color=brightgreen)
-
-</div>
 
 ---
 
