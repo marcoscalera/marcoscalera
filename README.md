@@ -60,22 +60,3 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcoscalera&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcoscalera&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcoscalera&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcoscalera&theme=github_dark)
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=marcoscalera&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcoscalera&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/marcoscalera/github-readme-activity-graph)
-
-</div>
