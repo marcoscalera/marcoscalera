@@ -41,13 +41,13 @@
 </tr>
 <tr>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br>HTML
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx"/><br>Nginx
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br>CSS
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br>Docker
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/><br>Firebase
+  <img src="https://skillicons.dev/icons?i=ansible" width="48" alt="Ansible"/><br>Ansible
 </td>
 <td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br>Git
